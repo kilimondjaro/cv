@@ -17,6 +17,10 @@ body{
   line-height: 1.5;
 }
 
+li {
+  margin-top: 10px;;
+}
+
 .wrapper:before,
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }

@@ -158,6 +158,7 @@
   .resume-item-title,
   .resume-item-details,
   .resume-item-copy,
+  .resume-item-copy-bold,
   .resume-item-list {
     a {
       color: #333;
@@ -172,6 +173,9 @@
   }
 
   .resume-item-copy { margin: .75rem 0 0; }
+
+  .resume-item-copy-bold { @include sans_bold; }
+  
 }
 
 // footer styles

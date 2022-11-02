@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Impress
+  position: Lead Mobile (React Native) Developer
+  duration: Dec, 2020 &mdash; Present
+  place: Barcelona, Spain
+  summary: Led the development of the Impress mobile app – an app used by <a href="https://smile2impress.com/es?lang=en">Impress</a> patients to monitor their orthodontic treatment progress and maximize its efficiency by receiving notifications, making weekly teeth scans for the medical team, and doing other activities inside the app. <ul class="resume-item-list"><li>Architected and developed the <a href="https://apps.apple.com/en/app/impress/id1549666197">Impress mobile app</a> from the initial stage using the latest React Native best practices and approaches</li><li>Led the Impress Mobile engineering team using Agile and working closely with internal stakeholders and customers</li><li>Launched the Impress mobile app to production in a short period of time which helped to replace the previously used external mobile app and reduce the costs</li><li>Developed key product features (such as teeth scanning screen) that thousands of Impress patients use daily to monitor their orthodontic treatment</li><li>Managed app releases to the stores (Apple, Google, Huawei)</li><li>Configured the CI / CD infrastructure using GitHub Actions, VS App Center, and Firebase Remote Config which speeded up the development and releases</li><li>Developed the backed-end mobile gateway API using NestJS</li><li>Configured infrastructure to gather analytics using Amplitude and bug reports using Sentry, used them together for fixing bugs and making product hypothesis</li><li>Localized the app to multiple languages using Lokalise</li><li>Configured automated testing using Detox, Allure, and GitHub Actions</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Yandex.Market
+  position: iOS Developer
+  duration: Sep, 2019 &mdash; Dec, 2020
+  place: Moscow, Russia
+  summary: Took part in the development of the <a href="https://apps.apple.com/us/app/yandex-market/id1369890634">native iOS mobile app</a> of <a href="https://market.yandex.ru/">Yandex.Market</a> &mdash; one of the biggest Russian online marketplaces. <ul class="resume-item-list"><li>Developed complex product features used by hundreds of thousands of active users using a native iOS development stack</li><li>Collaborated with cross-functional teams to provide the high-quality product features development</li><li>Improved the app’s architecture by rewriting the legacy Objective-C code to Swift and using modern approaches (such as ReSwift)</li><li>Developed various UI tests which Increased the app's reliability</li></ul>
 
+- company: Yandex.Market &mdash; Bringly
+  position: Front-End Developer
+  duration: Jul, 2018 &mdash; Sep, 2019
+  place: Moscow, Russia
+  summary: Took part in the development of the <a href="https://martynovart.com/project/bringly">Bringly</a> &mdash; online marketplace created as an alternative to the popular Chinese platform of AliExpress. <ul class="resume-item-list"><li>Developed various product features of the Bringly website such as goods carousels and chat using React</li><li>Adapted the website for mobile users which increased the number of purchases</li><li>Developed product features for the Bringly mobile app using React Native</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: DevExpress
+  position: Junior Front-End Developer
+  duration: Sep, 2016 &mdash; Jul, 2018
+  place: Tula, Russia
+  summary: Took part in the development of <a href="https://reimagined.github.io/resolve/">reSolve</a> &mdash; a full stack CQRS, DDD, Event Sourcing framework for Node.js
