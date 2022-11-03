@@ -2,9 +2,9 @@
 - degree: Master of Computer Science, System and Software Engineering
   uni: HSE University
   year: 2018 &mdash; 2020
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: My master's degree thesis was dedicated to the development of a native iOS indoor navigation application. The app uses Apple ARKit and RealityKit in combination with Firebase to provide the augmented reality experience for navigating inside buildings.
 
 - degree: Bachelor of Computer Science, Software Engineering
   uni: HSE University
   year: 2014 &mdash; 2018
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: My bachelor's degree thesis was dedicated to the development of a <a href="https://github.com/kilimondjaro/InFocusGame">native iOS game</a> for children. The game uses the MobileNet object recognition model and allows children with the help of the camera and dictation to learn to recognize and pronounce the names of real-life objects such as fruits or furniture.
