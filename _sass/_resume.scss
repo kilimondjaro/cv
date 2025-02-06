@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 1rem; }
   }
 }
 
@@ -175,7 +175,7 @@
   .resume-item-copy { margin: .75rem 0 0; }
 
   .resume-item-copy-bold { @include sans_bold; }
-  
+
 }
 
 // footer styles
