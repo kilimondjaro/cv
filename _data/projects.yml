@@ -12,3 +12,8 @@
 - project: Make It an App
   url: "https://www.youtube.com/channel/UCxzXrz2J80Z_lfCBB5PU9og"
   description: A YouTube channel with educational videos about mobile development, React Native, programming, and other IT topics.
+
+- project: Hinoki Planner
+  url: "https://github.com/kilimondjaro/hinoki-cli"
+  description: A terminal-based application designed to help you manage your personal life goals effectively.
+  
