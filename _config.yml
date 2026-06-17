@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Kirill Babich"
-resume_title:                   "Senior Full-Stack Engineer & Engineering Manager"
+resume_title:                   "Senior Software Engineer (React Native, Node.js)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kilimondgaro@gmail.com"
